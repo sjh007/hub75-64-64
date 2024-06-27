@@ -20,3 +20,4 @@ Click configure WiFi.
 
 Lastly if you connceted the esp32 to the wifi.you may open the router website and find the ip address of esp32.then input the ip address
 
+purchase site：https://www.aliexpress.com/item/1005007201147335.html  
